@@ -1,0 +1,11 @@
+selenium==4.24.0
+webdriver-manager==4.0.2
+python-dotenv==1.0.1
+pdfplumber==0.11.4
+easyocr==1.7.1
+requests==2.32.3
+pyodbc==5.1.0
+Pillow==10.4.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy==1.26.4
