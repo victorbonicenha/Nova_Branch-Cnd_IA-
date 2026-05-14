@@ -1,0 +1,37 @@
+# Credenciais
+.env
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários de captcha e screenshots
+captcha*.png
+print_*.png
+erro_*.png
+cnd_municipal_*.png
+fgts_*.png
+
+# PDFs e certidões
+*.pdf
+CND - Divida Ativa/
+CND - Trabalhista/
+CND - Municipal/
+CND_FGTS/
+
+# OCR
+*.jpg
+*.jpeg
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
